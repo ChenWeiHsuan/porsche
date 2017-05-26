@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\家教\訂便當系統\訂便當系統\bin\Debug\訂便當系統.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\家教\訂便當系統\訂便當系統\bin\Debug\訂便當系統.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\家教\訂便當系統\訂便當系統\bin\Debug\訂便當系統.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\家教\訂便當系統\訂便當系統\obj\Debug\訂便當系統.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\家教\訂便當系統\訂便當系統\obj\Debug\訂便當系統.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\家教\訂便當系統\訂便當系統\obj\Debug\訂便當系統.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\家教\訂便當系統\訂便當系統\obj\Debug\訂便當系統.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\家教\訂便當系統\訂便當系統\obj\Debug\訂便當系統.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\家教\訂便當系統\訂便當系統\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\家教\訂便當系統\訂便當系統\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\家教\訂便當系統\訂便當系統\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\家教\訂便當系統\訂便當系統\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\家教\訂便當系統\訂便當系統\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\家教\訂便當系統\訂便當系統\obj\Debug\訂便當系統.Form1.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\家教\訂便當系統\訂便當系統\obj\Debug\訂便當系統.Student.resources
