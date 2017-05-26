@@ -17,11 +17,16 @@ namespace 訂便當系統
         {
             InitializeComponent();
         }
-
+        //第二次上傳
         private void btnStudent_Click(object sender, EventArgs e)
         {
             Student std = new Student();
             std.ShowDialog();
+        }
+
+        private void btnSend_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
